@@ -1,7 +1,6 @@
 const API = require("./ProductList")
 const REVIEWS = require("./ReviewData")
 
-
 const PRODUCTINFO = {
   displayProduct() {
     let productBlock = ""
@@ -26,7 +25,5 @@ const PRODUCTINFO = {
     })
   }
 }
-
-
 
 module.exports = PRODUCTINFO
