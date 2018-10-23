@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "High-End Virtualization Server 12-Core 128GB RAM 12TB RAID Dell PowerEdge R710",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61UYcjWQ5OL._SX679_.jpg",
+      "description": "DMC, powered by Altiris from Symantec, delivers a single view and a common data source into the entire infrastructure. DMC is an easily extensible, modular foundation that can provide basic hardware management or more advanced functions such as asset and security management. It helps reduce or eliminate manual processes so less time and money is spent keeping the lights on and more time can be spent on strategic uses of technology.",
+      "price": "963.50",
+      "quantity": 100,
+      "reviews": [
+        "They input more memory for free and the server are certified refurbished and working very good tested in 2 weeks working hard on it. The only thing is the shipping slow but for the extra memory for free is ok. Any way I love my server",
+        "They are still running great. Had 2 power supplies go bad, but the company shipped 2 overnight and everything is nice and stable.",
+        "I just got this one to replace an older powered 2950. What a bargain. Others already covered the good things about this server, but I just want to add how quit it is. It makes as much noise as a desktop. I was so used to the high noise of the old server that I could not believe this."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Synology 2 bay NAS DiskStation DS218j (Diskless)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71oOvLxtTCL._SX679_.jpg",
+      "description": "A versatile entry-level 2-bay NAS for home and personal cloud storage. Over 113 MB/s reading, 112 MB/s writing. Dual-core CPU with hardware encryption engine. Operating Temperature: 5°C to 40°C (40°F to 104°F). Everywhere access with iOS/Android/Windows ready mobile apps. An integrated media server supporting multimedia streaming",
+      "price": "169.99",
+      "quantity": 65,
+      "reviews": [
+        "I was uncertain about getting a local storage device for my home thinking I did not really need one with all the cloud services that are out there. Having gotten this model I am very pleased with it. It works well, its very simple to set up and use. It is easy to swap out failed disks. I have managed to upload all of my old home movies that I had earlier transcribed to DVD's onto this device. My wife an I are able to upload all of our digital photos from our smartphones freeing up space on our phones. Memories is a great app for the task of backing up your digital photo's. Only downside to it is that I cannot seem to use a USB connection to move data from the phone to the server directly, it seems to insist on using the WiFi. As I had many photo's and video's to move across and because Wifi was slow and quirky on occasion I would up moving the photos to my laptop and then from my laptop to the NAS. My son also has a Synology NAS (he suggested that I get a NAS for my home). As a result I was able to share the old home video's with him directly by syncing the two devices. We now backup each others critical data between the two NAS devices.<br>The downside is that there are a few quirks to consider. Drive (synologies equivalent app to DropBox or Google drive) does not seem to work as seamlessly. Simply storing info into drive does not seem to move it to the NAS device. If I mount the NAS as a shared folder I can save documents to it and then they appear in Drive on any device I add the app to. Could be my inexperience. Moments is tied to Drive. Once Drive is loaded the more sophisticated CloudStation Server app cannot be used. Basically you have to choose one or the other (Drive or Cloudstation).<br>Lastly (and this is my fault), this unit does not transcribe movie formats. So if you have a mix of formats you will need to use an external device to recode them in to a MPEG format. Here I should have done a little more research, but the workaround is simple, use your computer, using open source software and recode it and just store the recoded files. <br>I am able to run video directly from my Samsung Smart TV, or an Apple TV (you need to use your phone to push the video to start on Apple TV, but once you do this your phone is no longer needed. This is similar to how Chromcast seems to work). It also works on Roku, although Roku is giving a message that the video app is not fully compatible and will no longer be available after the end of 2018.<br>I am amazed how much data you can store on this device. I purchased two 4 Terabyte NAS disks, and with everything I placed on it am using less then a terabyte of storage!",
+        "I've been using this DS218j for about a week now and it serves my needs very well. I really just wanted a place for storage on my network for photos, music and video as well as a place for backing up generic data files. I also wanted something for managing a couple of security cameras. With the media server and the surveillance application memory usage is about 45% and CPU usage is low, on average around 10%. I have a couple of 2T drives set up as RAID1 (changed to RAID1 from the default SHR for best performance and simplicity). SFTP server is also set up because I do use that sometimes. If all you need is file share for your network for media and backups, manage a few cameras and a way to have your own cloud storage for portable devices this is perfect. If want to do transcoding for movies or have a lot of users on your network accessing it and/or doing a lot of encryption of files etc you may want to bump up to a higher end one with more memory and CPU power.",
+        "I am in love with Synology. I was running out of space on my Synology DS213+ and was looking for an expansion solution. But why? I bought this instead - my network recognizes it as a separate server and I now use one for professional stuff and one for home stuff. You cannot (under ANY circumstances) go wrong with Synology. And the new DiskStation software (basically the UI for their OS), it is ridiculously easy to set up a photo, video, web or mail server and get it out to the web. I love it. And you can't beat the price!"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Suptek Hex Arm LCD LED Monitor Stand Desk Mount Bracket Heavy Duty & Fully Adjustable 6 Screens up to 27'' with 15 Tilt, 360 Rotation & 180 Pull Out Swivel Arm - Max VESA 100x100 ML68126",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61NKWv5fI%2BL._SX679_.jpg",
+      "description": "Ideal for most 13 inch to 27 inch monitors that weigh up to 22lbs(10KG) each vesa plate.<vr>VESA Compliant patterns: 75x75 - 100x100mm; 3-YEAR GUARANTEE.<br>Tilt: 15 degree up/down; swivel: 180 degree; rotate: 360 degree. Adjustable stand with adjustable screen plate for better viewing angle.<br>With Cable Management to make your desktop clean. Positioning from landscape to portrait view to save space.<br>Including full fixing kit for installation; Large-base insure the secure; Height adjustable",
+      "price": "99.99",
+      "quantity": 1100,
+      "reviews": [
+        "Awesome.",
+        "Amazing product and super easy set-up.",
+        "Pleased with product for the price."
+      ]
+    }
+  ]
+}
