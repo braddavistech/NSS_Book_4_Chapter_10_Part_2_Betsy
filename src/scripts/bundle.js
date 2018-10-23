@@ -17,7 +17,6 @@ module.exports = NAVBAR
 const API = require("./ProductList")
 const REVIEWS = require("./ReviewData")
 
-
 const PRODUCTINFO = {
   displayProduct() {
     let productBlock = ""
@@ -42,8 +41,6 @@ const PRODUCTINFO = {
     })
   }
 }
-
-
 
 module.exports = PRODUCTINFO
 },{"./ProductList":3,"./ReviewData":5}],3:[function(require,module,exports){
@@ -93,11 +90,9 @@ const REVIEWS = {
 module.exports = REVIEWS;
 },{"./ProductList":3,"./Review":4}],6:[function(require,module,exports){
 const NAVBAR = require("./Nav")
-
 const PRODUCTINFO = require("./ProductData")
 
 NAVBAR.printNav();
 
 PRODUCTINFO.displayProduct()
-
 },{"./Nav":1,"./ProductData":2}]},{},[6]);

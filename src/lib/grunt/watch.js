@@ -1,10 +1,7 @@
 module.exports = {
   scripts: {
-      files: [
-          "../scripts/*.js",
-          "!node_modules/**/*.js"
-      ],
-      tasks: ["eslint"],
+      files: ["./index.html", "./scripts/**/*.js", "./styles/**/*.css", "!node_modules/**/*.js"],
+      tasks: ["eslint", "browserify", "uglify", "copy"],
       options: {
           spawn: false,
           debounceDelay: 1000
