@@ -2,3 +2,76 @@
   padding: 0px;
   margin: 0px;
 }
+body {
+  background-color:grey;
+}
+#navBar {
+  top: 0px;
+  width: 100%;
+  background-color: black;
+  padding-bottom:2vw;
+}
+#companyName {
+  text-align: center;
+  width: 100%;
+  font-size: 10vw;
+  color: white;
+}
+#navButtonSection {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+.navLinks {
+  background-color: blue;
+  text-decoration: none;
+  color: red;
+  width: 20%;
+  text-align: center;
+  padding: 1%;
+  border-radius: 20px;
+}
+.indProduct{
+  background-color: white;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 3vw;
+  padding: 2vw;
+}
+.indProduct > h3{
+  font-weight: bold;
+  text-align: center;
+}
+.productName {
+  font-size: 3vw;
+  text-align: center;
+  padding-top: 2vw;
+}
+.productImage {
+  display: flex;
+  margin: auto;
+  max-width: 50%;
+}
+.reviewButton {
+  background-color: red;
+  padding: 1vw;
+  font-size: 2vw;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-top: 5%;
+}
+#returnButton {
+  background-color: red;
+  padding: 1vw;
+  text-decoration: none;
+  font-size: 3vw;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-top: 5%;
+}
+#reviews{
+  margin-bottom: 3vw;
+}
